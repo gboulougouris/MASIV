@@ -1,2 +1,2 @@
-# MASA
-Molecular Accesible Surfice Area calculations
+# MASIV
+Molecular Accesible Surfice Inaccesible Volume calculations
